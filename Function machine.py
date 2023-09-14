@@ -4,6 +4,3 @@ def f(x):
  return f_x
 y=f(10)
 print(y)
-
-
-#codethatprintshelloworld
